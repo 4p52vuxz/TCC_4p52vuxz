@@ -1,0 +1,8 @@
+{
+    "contornoEsquerda": 0,
+    "contornoDireita": 0,
+    "numeroRegiao": 1,
+    "tipoRegiao": [ 1 ],
+    "tamanhoRegiao": [ 100 ],
+    "numeroParticao": [ 500 ]
+}

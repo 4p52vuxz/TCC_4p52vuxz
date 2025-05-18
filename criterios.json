@@ -1,0 +1,8 @@
+{
+    "numeroMaximoExterna": 300000,
+    "numeroMaximoInterna": 30000,
+    "toleranciaKeff": 1e-7,
+    "toleranciaFluxoExterna": 1e-6,
+    "toleranciaFluxoInterna": 1e-6,
+    "kEffReferenciaAnalitico": 0.7586314
+}

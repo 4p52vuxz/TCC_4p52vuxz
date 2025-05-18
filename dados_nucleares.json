@@ -1,0 +1,19 @@
+{
+    "numeroTipo": 2,
+    "tipos": [
+        {
+            "nome": "TIPO 1",
+            "coefDifusao": [ 1.438, 0.3976 ],
+            "secaoChoqueAbsorcao": [ 0.02935, 0.1049 ],
+            "secaoChoqueEspalhamento": [ 0.0, 0.01563 ],
+            "nuSecaoChoqueFissao": [ 0.000242, 0.155618 ]
+        },
+        {
+            "nome": "TIPO 2",
+            "coefDifusao": [ 1.87142, 0.283409 ],
+            "secaoChoqueAbsorcao": [ 0.035411, 0.031579 ],
+            "secaoChoqueEspalhamento": [ 0.0, 0.03434 ],
+            "nuSecaoChoqueFissao": [ 0.0, 0.0 ]
+        }
+    ]
+}
